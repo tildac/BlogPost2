@@ -30,3 +30,5 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur sed quos hic t
 [Here's a link to the piece](http://www.bitforms.com/lozano-hemmer/bilateral-time-slicer)
 
 
+# Blog-Post-2-Round-2
+# BlogPost2
